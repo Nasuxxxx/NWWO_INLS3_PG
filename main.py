@@ -2,6 +2,7 @@ from tasks import add_task
 
 print("Pierwsza linia kodu")
 print("Lubie placki")
+print("Druga linia kodu")
 
 lista_zadan = []
 
