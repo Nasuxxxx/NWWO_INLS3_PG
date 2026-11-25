@@ -2,7 +2,7 @@
 name: Zmiana w dokumentacji
 about: Utwórz lub aktualizuj dokumentacje
 title: "[DOCS] krótki opis do uzupęłnienia"
-lables: documentation
+labels: documentation
 type: Task
 assigment: ""
 ---
