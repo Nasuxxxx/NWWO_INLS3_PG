@@ -2,7 +2,7 @@
 name: Zgłoszenie błędu
 about: Zgłoś błąd w projekcie
 title: "[BUG] krótki opis do uzupęłnienia"
-lables: bug
+labels: bug
 type: Bug
 assignees: ""
 ---
